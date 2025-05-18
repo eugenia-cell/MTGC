@@ -2,7 +2,6 @@
 
 This is the implementation of **Multi-Scale Temporal Graph Contrastive Embedding for Urban Region Representation (MTGC)** in the following paper:
 
-[作者名1]#, [作者名2]#, [通讯作者]*, [其余作者], **[论文标题]**, [会议/期刊名称], [时间地点]。[Acceptance rate=XX%]
 
 📄 [Link to the paper]()
 
@@ -37,7 +36,7 @@ pytorch >= 2.6.0
 numpy >= 1.24.3
 pandas >= 2.2.3
 sklearn >= 1.6.1
-
+```
 
 ## 🚀 QuickStart
 ```bash
@@ -47,3 +46,5 @@ cd manhattan
 python trian.py (CPU)
 python gtrain.py (GPU)
 ```
+
+## 📚 Reference
