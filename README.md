@@ -43,7 +43,7 @@ sklearn >= 1.6.1
 cd code
 cd manhattan 
 (cd SF)
-python trian.py (CPU)
+python train.py (CPU)
 python gtrain.py (GPU)
 ```
 
