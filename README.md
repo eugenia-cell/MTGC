@@ -3,7 +3,7 @@
 This is the implementation of **Multi-Scale Temporal Graph Contrastive Embedding for Urban Region Representation (MTGC)** in the following paper:
 
 
-📄 [Link to the paper]()
+📄 [Link to the paper](https://www.sciencedirect.com/science/article/pii/S1566253525005378)
 
 ---
 
@@ -48,3 +48,13 @@ python gtrain.py (GPU)
 ```
 
 ## 📚 Reference
+```bash
+@article{LI2026103464,
+title = {Multi-Scale Temporal Graph Contrastive Embedding for urban region representation},
+journal = {Information Fusion},
+volume = {125},
+pages = {103464},
+year = {2026},
+author = {Yue Li and Xinzheng Niu and Jiahui Zhu and Shuai Wen and Fan Min}
+}
+```
