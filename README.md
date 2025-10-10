@@ -18,7 +18,7 @@ This is the implementation of **Multi-Scale Temporal Graph Contrastive Embedding
 
 ## 📦 Data
 
-Here we provide the processed data used in our paper.
+Here we provide the raw data used in our paper.
 
 - 📁 Raw data source: 
 [San Francisco Open Data](https://datasf.org/opendata/)
